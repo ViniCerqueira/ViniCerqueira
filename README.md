@@ -57,6 +57,18 @@
 
 <br clear="both">
 
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">Sempre fui fascinado por automações e pela resolução de problemas. Gosto de explorar processos que envolvem identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudo diversas tecnologias, como HTML, CSS e Tailwind CSS, JavaScript, C, Java, Python, PostgreSQL, MySQL, MongoDB. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.</p>
+
+###
+
+<h2 align="left">Social Midia</h2>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniCerqueira&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniCerqueira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
