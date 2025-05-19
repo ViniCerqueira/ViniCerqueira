@@ -1,15 +1,23 @@
-
-
-<h2 align="left">About Me</h2>
+<h1 align="center">About my</h1>
 
 ###
 
-<p align="left">Sempre fui fascinado por automações e pela resolução de problemas. Gosto de explorar processos que envolvem identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudo diversas tecnologias, como Tailwind CSS, JavaScript, TypeScript, Next.js e Node.js. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.<br><br>Portifolio:<a href="https://vinicerqueira.github.io/Portifolio/" target="_blank"> Vinicius.Cerqueira</a></p>
+<p align="center">Sempre fui fascinado por automatizações e pela resolução de problemas. Gosto de explorar processos que envolvam identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudamos diversas tecnologias, como Tailwind CSS, JavaScript, TypeScript, Next.js e Node.js. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.<br><br>Portifólio: Vinicius.Cerqueira</p>
+
+###
+
+<h2 align="center">Social Media</h2>
+
+###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
+
+###
+
+<h2 align="center">Tech</h2>
 
 ###
 
@@ -24,6 +32,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 </div>
+
+###
+
+<h2 align="center">Statis</h2>
 
 ###
 
