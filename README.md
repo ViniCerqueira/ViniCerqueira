@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Sempre fui fascinado por automatizações e pela resolução de problemas. Gosto de explorar processos que envolvam identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudamos diversas tecnologias, como Tailwind CSS, JavaScript, TypeScript, Next.js e Node.js. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.<br></p> <p aling="center"><br> Portifólio:<a href:"https://vinicerqueira.github.io/Portifolio/">Vinicius.Cerqueira</a></p>
+<p align="center">Sempre fui fascinado por automatizações e pela resolução de problemas. Gosto de explorar processos que envolvam identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudamos diversas tecnologias, como Tailwind CSS, JavaScript, TypeScript, Next.js e Node.js. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.<br></p>
 
 ###
 
