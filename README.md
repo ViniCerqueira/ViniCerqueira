@@ -1,9 +1,10 @@
 
+
 <h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">Sempre fui fascinado por automações e pela resolução de problemas. Gosto de explorar processos que envolvem identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudo diversas tecnologias, como HTML, CSS e Tailwind CSS, JavaScript, C, Java, Python, PostgreSQL, MySQL, MongoDB. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.<br><br>Portifolio:<a href="https://vinicerqueira.github.io/Portifolio/" target="_blank"> Vinicius.Cerqueira</a></p>
+<p align="left">Sempre fui fascinado por automações e pela resolução de problemas. Gosto de explorar processos que envolvem identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudo diversas tecnologias, como Tailwind CSS, JavaScript, TypeScript, Next.js e Node.js. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.<br><br>Portifolio:<a href="https://vinicerqueira.github.io/Portifolio/" target="_blank"> Vinicius.Cerqueira</a></p>
 
 ###
 
