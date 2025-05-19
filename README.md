@@ -6,18 +6,12 @@
 
 <p align="left">Sempre fui fascinado por automações e pela resolução de problemas. Gosto de explorar processos que envolvem identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudo diversas tecnologias, como Tailwind CSS, JavaScript, TypeScript, Next.js e Node.js. Além disso, estou no 4º semestre da faculdade de Ciência da Computação.<br><br>Portifolio:<a href="https://vinicerqueira.github.io/Portifolio/" target="_blank"> Vinicius.Cerqueira</a></p>
 
-###
-
-<h2 align="left">Social Midia</h2>
-
-###
-
-<div align="left">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/vinifsc_dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
+
+###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
