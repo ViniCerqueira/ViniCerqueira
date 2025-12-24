@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, me chamo Vinicius</h1>
 
 ###
 
-<p align="left">Meu nome é Vinicius, sou Desenvolvedor full-stack</p>
+<p align="left">Sou Desenvolvedor full-stack</p>
 
 ###
 
