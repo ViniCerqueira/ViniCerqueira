@@ -2,7 +2,11 @@
 
 ###
 
-<p align="center">Sempre fui fascinado por automatizações e pela resolução de problemas. Gosto de explorar processos que envolvam identificar soluções, realizar pesquisas, debater ideias, chegar a consensos e implementar melhorias gradualmente para alcançar resultados positivos. Esse interesse despertou em mim um desejo crescente de aprimorar meus conhecimentos e contribuir para projetos futuros.<br><br>Atualmente, estudamos diversas tecnologias, como Tailwind CSS, JavaScript, TypeScript, Next.js e Node.js. Além disso, estou no 5º semestre da faculdade de Ciência da Computação.<br></p>
+<p align="center">Desenvolvedor em formação e Analista de TI com experiência prática. No 5º semestre de Ciência da Computação, combino mais de 2 anos de vivência em suporte técnico e infraestrutura com habilidades modernas de desenvolvimento Full Stack.
+
+Meu objetivo é atuar em grandes empresas, desenvolvendo sistemas que automatizem tarefas e melhorem a vida dos usuários. Tenho perfil "hands-on", facilidade de aprendizado e forte senso de colaboração.
+
+Tech Stack: HTML, CSS, JavaScript, TypeScript, TailwindCSS, Next.js, Node.js.<br></p>
 
 ###
 
