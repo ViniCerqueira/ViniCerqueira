@@ -14,7 +14,7 @@
 
 Meu objetivo é atuar em grandes empresas, desenvolvendo sistemas que automatizem tarefas e melhorem a vida dos usuários. Tenho perfil "hands-on", facilidade de aprendizado e forte senso de colaboração.
 
-Tech Stack: HTML, CSS, JavaScript, TypeScript, TailwindCSS, Next.js, Node.js.</p>
+Tech Stack: TypeScript, JavaScript, TailwindCSS, React.js, Node.js.</p>
 
 ###
 
