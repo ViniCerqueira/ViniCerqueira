@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedor em formação e Analista de TI com experiência prática. No 5º semestre de Ciência da Computação, combino mais de 2 anos de vivência em suporte técnico e infraestrutura com habilidades modernas de desenvolvimento Full Stack.
+<p align="left">Desenvolvedor em formação e Analista de TI com experiência prática. No 6º semestre de Ciência da Computação, combino mais de 2 anos de vivência em suporte técnico e infraestrutura com habilidades modernas de desenvolvimento Full Stack.
 
 Meu objetivo é atuar em grandes empresas, desenvolvendo sistemas que automatizem tarefas e melhorem a vida dos usuários. Tenho perfil "hands-on", facilidade de aprendizado e forte senso de colaboração.
 
